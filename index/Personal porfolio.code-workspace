@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projekt"
+	},
+	"extensions": {
+		"recommendations": [
+			"yoga-au.px-to-em"
+		]
+	}
+}
